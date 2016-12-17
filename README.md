@@ -1,4 +1,4 @@
-############
+$############
 
 This is an example project that uses the [GitHub Maven Plugins](https://github.com/github/maven-plugins).
 
